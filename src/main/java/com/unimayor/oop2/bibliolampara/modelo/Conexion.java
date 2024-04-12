@@ -8,7 +8,7 @@ public class Conexion {
 
     private final String driver = "com.mysql.cj.jdbc.Driver";
     private final String username = "root";
-    private final String password = "Se3122103834";
+    private final String password = "aqui_tu_contraseña";
     private final String database = "bd_biblioteca";
     private final String url = "jdbc:mysql://localhost:3306/" + database + "?useSSL=false";
 
