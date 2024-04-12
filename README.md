@@ -1,4 +1,4 @@
-# Nombre de tu Proyecto
+# Primer ejercicio usando MySQL
 
 Este es un proyecto Java que utiliza Maven para la gestión de dependencias.
 
