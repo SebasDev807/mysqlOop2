@@ -1,6 +1,6 @@
 # Primer ejercicio usando MySQL
 
-Este es un proyecto Java que utiliza Maven para la gestión de dependencias.
+En este ejercicio se usa Maven para la gestión de dependencias.
 
 ## Cómo agregar la dependencia
 
@@ -16,3 +16,4 @@ Este es un proyecto Java que utiliza Maven para la gestión de dependencias.
         <version>8.0.33</version>
     </dependency>
 </dependencies>
+
